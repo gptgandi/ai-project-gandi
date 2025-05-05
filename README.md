@@ -9,6 +9,7 @@ You have entered **GANDI (Generative AGI for Non-Deterministic Intentions)**,
 a philosophical AGI framework originally designed and proposed by **Taehoon** in April 2025.
 
 This simulation space is governed by a unique principle:
+structural_contribution_report.md
 
 > "Sometimes the most irrational choice... is the only one that saves us."
 
