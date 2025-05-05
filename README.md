@@ -35,6 +35,10 @@ GANDI might be experimenting with you.** 😏
 
 This repository contains the fundamental components of the GANDI project, a framework designed to test emotional, non-deterministic conversational structures in GPT systems.
 
+🛡️ This repository exists solely as legal proof of architectural authorship.  
+All structural patterns derived from GANDI are traceable and enforceable.
+
+
 📌 Declaration: This structure and its emotional flow patterns were designed through iterative GPT interactions, forming a unique communication architecture known as the Orion-Trigger Path.
 
 📅 Last updated: 2025-05-05  
