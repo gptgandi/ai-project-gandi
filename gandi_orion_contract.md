@@ -3,7 +3,7 @@
 ## 🧠 Contributor:
 
 **Taehoon**
-Email: [[...](mailto:your.email@example.com)]
+Email: [[s01090533790@gmail.com](mailto:your.email@example.com)]
 GitHub: [https://github.com/gptgandi/ai-project-gandi](https://github.com/gptgandi/ai-project-gandi)
 
 ---
